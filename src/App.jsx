@@ -5,7 +5,7 @@ import Login from "./Login";
 
 // export const serverRoute = 'http://localhost:8080'
 // export const serverRoute = "https://salamh2-se-yrp7.onrender.com";
-export const serverRoute = "https://salmh-se2.onrender.com";
+export const serverRoute = "https://salmh-se-xe2s.onrender.com";
 export const token = localStorage.getItem("token");
 function App() {
   return (
